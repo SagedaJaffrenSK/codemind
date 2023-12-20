@@ -17,4 +17,5 @@ int main()
         }
     }
     printf("%d", odd_sum);
+    return 0;
 }
