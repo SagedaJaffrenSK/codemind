@@ -13,6 +13,7 @@ int main()
     {
         sum += arr[i];
     }
-    avg = sum/n;
+    avg=sum/n;
     printf("%.2f", avg);
+    return 0;
 }
